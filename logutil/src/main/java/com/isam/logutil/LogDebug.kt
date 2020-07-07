@@ -2,7 +2,7 @@ package com.isam.logutil
 
 import android.util.Log
 
-class LogDebug {
+public class LogDebug {
 
     private val tag = "SAM_DEBUG"
 
